@@ -35,7 +35,18 @@ The analysis shows that DPS–SIN has the highest baggage add-on transaction vol
   ![Issued Error by Analysis](https://github.com/naelasproject0817/Baggage-Add-on-Analysis-in-Flight-Ticketing/blob/main/Baggage%20Transactions%20by%20Arlines%204.png)
 
 When segmented by airline, Lion Air and Citilink show relatively high baggage transaction volumes across multiple routes. Airlines with consistently high baggage transaction volumes require closer monitoring, as operational errors on these airlines may have a broader financial impact.
+
+ 3. Analysis 3 — Baggage Transaction Volume by Route
+
+ ![Baggage Transaction Volume by Route](https://github.com/naelasproject0817/Baggage-Add-on-Analysis-in-Flight-Ticketing/blob/main/transaction%20volume%20by%20route%205.png) 
  
+ Error analysis reveals that issuance errors occur move frequenlty on routes with higher transaction volume, particularly DPS-SIN
+ 
+ ![Baggage Transaction Volume by Route](https://github.com/naelasproject0817/Baggage-Add-on-Analysis-in-Flight-Ticketing/blob/main/TRANSAKSI%20BAGASI%206.png)
+
+ 
+This suggests that operational pressure on high-volume routes may increase the likelihood of errors.
+
 
 **Key Insights**
 - DPS–SIN is the highest-volume route for baggage add-on transactions
