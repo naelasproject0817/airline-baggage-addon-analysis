@@ -4,16 +4,6 @@ Airline ticketing transactions often include optional baggage add-ons that gener
 **Dataset Description**
 
 The dataset contains simulated flight ticketing transactions with baggage add-ons. The dataset is a simulated ticketing dataset designed to represent real-world airline baggage transactions.
-- Key variables include:
-- Booking ID
-- Flight date
-- Route
-- Airline
-- Ticket price
-- Baggage add-on indicator
-- Baggage fee
-- Issued error flag
-
 
 **Objective**
 
@@ -24,7 +14,15 @@ The objectives of this analysis are:
 - To provide data-driven recommendations to improve accuracy and revenue
 
 **Tools**
-- Google Sheets / Excel
+- Google Sheets (data cleaning, pivot analysis, visualization)
+
+**Analysis & Insights** 
+1. Baggage Transaction by Route
+
+   ![Baggage Transaction by Route](https://github.com/naelasproject0817/Baggage-Add-on-Analysis-in-Flight-Ticketing/blob/main/transaction%20by%20route%201.png)
+
+Pivot analysis shows that DPS–SIN has the highest number of baggage add-on transactions compared to other routes.
+
 
 **Key Insights**
 - DPS–SIN is the highest-volume route for baggage add-on transactions
