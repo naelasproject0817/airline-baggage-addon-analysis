@@ -16,7 +16,7 @@ The objectives of this analysis are:
 **Tools**
 - Google Sheets (data cleaning, pivot analysis, visualization)
 
-**Analysis & Insights** 
+**Analysis** 
 1. **Analysis 1 Baggage Transaction by Route**
 
    ![Baggage Transaction by Route](https://github.com/naelasproject0817/Baggage-Add-on-Analysis-in-Flight-Ticketing/blob/main/transaction%20by%20route%201.png)
@@ -36,7 +36,7 @@ The analysis shows that DPS–SIN has the highest baggage add-on transaction vol
 
 When segmented by airline, Lion Air and Citilink show relatively high baggage transaction volumes across multiple routes. Airlines with consistently high baggage transaction volumes require closer monitoring, as operational errors on these airlines may have a broader financial impact.
 
- 3. Analysis 3 — Baggage Transaction Volume by Route
+ 3. **Analysis 3 — Baggage Transaction Volume by Route**
 
  ![Baggage Transaction Volume by Route](https://github.com/naelasproject0817/Baggage-Add-on-Analysis-in-Flight-Ticketing/blob/main/transaction%20volume%20by%20route%205.png) 
  
@@ -47,16 +47,20 @@ When segmented by airline, Lion Air and Citilink show relatively high baggage tr
  
 This suggests that operational pressure on high-volume routes may increase the likelihood of errors.
 
-
 **Key Insights**
 - DPS–SIN is the highest-volume route for baggage add-on transactions
 - Higher transaction volume is associated with a higher frequency of issuance errors
 - Routes contributing the most baggage revenue also carry the highest operational risk
 - Error monitoring should prioritize transaction volume rather than route count alone
 
+**Recommendations**
+- Prioritize additional quality control checks on DPS–SIN due to its high baggage transaction volume
+- Implement error monitoring dashboards for high-impact routes
+- Provide targeted refresher training for agents handling high-volume baggage issuance
+- Regularly review baggage issuance performance to reduce revenue leakage
+- Optimizing high-volume routes can help reduce issuance errors while protecting baggage revenue
 
-**Folder Structure**
-- data: raw & processed dataset
-- analysis : spreadsheet
-- visualization: charts
+**Conclusion**
+
+By analyzing baggage revenue, transaction volume, and issued error patterns, this project highlights key operational focus areas where process improvements can deliver both efficiency gains and revenue protection.
 
